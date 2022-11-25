@@ -29,7 +29,7 @@ public class DaoCategoria {
 			e.printStackTrace();
 			return false;
 		}
-		
+		    
 	}
 	public ArrayList<Categoria> fetchcategorias(){
 		ArrayList<Categoria> lista=new ArrayList<Categoria>();
